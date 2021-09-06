@@ -1,0 +1,12 @@
+Developer's tools console log:
+"Executing fetch: git -c credential.helper= fetch --progress --prune origin "
+and below:
+install.ts:23 git -c credential.helper= fetch --progress --prune origin exited with an unexpected code: 128.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+(The error was parsed as 2: Authentication failed. You may not have permission to access the repository or the repository may have been archived. Open options and verify that you're signed in with an account that has permission to access this repository.)
+
+%APPDATA%\GitHub Desktop\logs\*.desktop.production.log
+I have not this log/ folder
