@@ -1,0 +1,15 @@
+Github.Desktop use password from github.com but console use another one. I think it is because of different ssh keys.
+How to "meet" working key with github desktop?
+
+GitHub Desktop version: [1.0.13]
+
+OS version: [Microsoft Windows 7 version 6.1.7601]
+
+Steps to Reproduce
+I have local repository (with .git folder)
+
+[push origin]
+[Error : "Authentication failed. You may not have permission to access the repository or the repository may have been archived. Open options and verify that you're signed in with an account that has permission to access this repository."]
+Reproduces how often: [100%]
+
+Logs
